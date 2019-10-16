@@ -5,20 +5,20 @@ body {
 
 .block {
   padding: 10px;
-  border: 1px solid red;
+  border: 1px solid #e75551;
 }
 
-.block_blue {
+.wrapper {
   margin: 20px 20px 40px;
   width: 350px;
   background-color: #0c87c0;
   box-sizing: border-box;
 }
 
-.block_yellow {
+.inner {
   background-color: #ffa400;
 }
 
-.block_grey {
+.content {
   background-color: #dcdcdc;
 }
